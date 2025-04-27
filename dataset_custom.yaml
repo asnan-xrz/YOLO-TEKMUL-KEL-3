@@ -1,0 +1,6 @@
+train: C:\1 - AGAS UTAMA\02 - KULIAH\SEMESTER 6\TEKMUL\YOLO\3-yolov_11-yutub\train 
+val: C:\1 - AGAS UTAMA\02 - KULIAH\SEMESTER 6\TEKMUL\YOLO\3-yolov_11-yutub\val
+
+nc: 2
+
+names: ["buffalo", "elephant"]
